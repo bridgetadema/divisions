@@ -1,0 +1,223 @@
+/* start of first div */
+.first{
+    width: 100%;
+    height: 150px;
+    background-color: blanchedalmond;
+}
+/* end of first div */
+/* start of second div */
+.second{
+    height: 150px;
+    background-color: brown;
+    display: flex;
+}
+.second-left{
+    height: 150px;
+    width: 50%;
+    background-color: aliceblue;
+}
+.second-left{
+    height: 150px;
+    width: 50%;
+    background-color: rgb(38, 60, 79);
+}
+/* start of third div */
+.third{
+    height: 150px;
+    background-color: black;
+    display: flex;
+}
+.third-left{
+    height: 150px; 
+    width: 40%;
+    background-color: aquamarine;
+}
+.third-center{
+    height: 150px; 
+    width: 20%;
+    background-color: beige ;
+}
+.third-right{
+    height: 150px; 
+    width: 20%;
+     background-color:black;
+}
+/* start of fourth div */
+.fourth{
+    height: 150px;
+    background-color: beige;
+    display: flex;
+}
+.fourth-left{
+    height: 150px; 
+    width: 25%;
+    background-color: rgb(96, 85, 253);
+}
+.fourth-center1{
+    height: 150px; 
+    width: 25%;
+    background-color: olivedrab;
+}
+.fourth-center2{
+    height: 150px; 
+    width: 25%;
+    background-color:orange ;
+}
+.fourth-right{
+    height: 150px; 
+    width: 25%;
+    background-color: plum ;
+}
+/* start of example div */
+.example-div{
+    height: 250px;
+    display: flex;
+
+}
+.example-left{
+    height: 250px;
+    width: 50%;
+    
+}
+.example-right{
+    height: 250px;
+    width: 50%;
+
+}
+img{
+    height:550px ;
+    width: 70%;
+}
+p{
+    font-size: xx-large;
+    text-align: center;
+}
+
+/* start of div ex */
+.sixth{
+        height: 150px;
+        background-color: white;
+        display: flex;
+        padding-top: 450px;
+    }  
+
+    .sixth-left{
+        height: 550px; 
+        width: 33.33%;
+        background-color: deepskyblue;
+        text-align: center;
+    }
+    .sixth-center{
+        height: 550px; 
+        width: 33.33%;
+        background-color: orange;
+        text-align: center;
+    }
+    .sixth-right,ol{
+        height: 550px; 
+        width: 33.33%;
+        background-color: deepskyblue;
+        font-size: large;
+        text-align: center;
+        
+    }
+    ol{
+        font-size: xx-large;
+        text-align: center;
+        text-align: justify;
+        margin-left: 50px;
+    }
+    h2{
+       text-align: center; 
+       font-size: x-large;
+       background-color: beige;
+       font-weight: bold;
+       height: 100px;
+    }
+
+.program-div{
+    height: 100px;
+    background-color: white;
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 10%;
+}
+.program-left{
+    height: 40px;
+    width: 50%;
+    text-align: center;
+    
+}
+.program-right{
+    height: 450px;
+    width: 60%;
+    text-align: center;
+    font-size: x-large;
+}
+.image1{
+    height: 250px;
+    width: 60%;
+
+}
+
+
+.economic-div{
+    height: 100px;
+    background-color: white;
+    display: flex;
+    padding-top: 30%;
+
+}
+.economic-left{
+    height: 40px;
+    width: 50%;
+    text-align: center;
+    
+}
+.economic-right{
+    height: 450px;
+    width: 60%;
+    text-align: center;
+    font-size: x-large;
+}
+
+
+
+.citizenship-div{
+    height: 100px;
+    background-color: white;
+    display: flex;
+    padding-top: 40%;
+}
+.citizenship-left{
+    height: 40px;
+    width: 50%;
+    text-align: center ;
+
+}
+.citizenship-right{
+    height: 450px;
+    width: 60%;
+    text-align: center;
+    font-size: x-large;
+}
+.btn-example{
+    background-color: burlywood;
+    width: 100px;
+    height: 50px;
+    color: blue;
+    font-weight: bold;
+    border-radius: 10px;
+    border: unset;
+}
+.btn-program{
+    background-color: beige;
+    width: 100px;
+    height: 50px;
+    color: red;
+    font-weight: bold;
+    border-radius: 10px;
+    border: unset;
+}
+
+
